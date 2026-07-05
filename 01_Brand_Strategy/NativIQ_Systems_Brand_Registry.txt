@@ -1,10 +1,32 @@
+Brand: NativIQ Systems
+
+Main Gmail:
+Email: nativiqsystems@gmail.com
+Creation Evidence: 2026-07-05
+
+YouTube:
+Channel Name: NativIQ Systems
+Handle: @NativIQSystems
+URL: https://www.youtube.com/@NativIQSystems
+Creation Evidence: 2026-07-05
 
 Instagram:
+Name: NativIQ Systems
 Handle: @nativiq.systems
 URL: https://www.instagram.com/nativiq.systems/
 Creation Evidence: 2026-07-05
 
 TikTok:
+Name: nativiq.systems
 Handle: @nativiq.systems
 URL: https://www.tiktok.com/@nativiq.systems
 Creation Evidence: 2026-07-05
+
+Brand Purpose:
+AI-native systems for real business operations.
+
+Brand Positioning:
+NativIQ Systems builds and documents AI-native systems, automation, data workflows and business-oriented technology without hype.
+
+Initial Evidence Folder:
+D:\Mauro\Facultad\IFES\Materias\NativIQ_Systems\00_Brand_Evidence
