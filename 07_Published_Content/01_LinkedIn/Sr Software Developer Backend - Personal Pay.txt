@@ -1,0 +1,86 @@
+Acerca del empleo
+Ubicación
+
+AR
+
+Descripción
+
+Cada vez mas Personal
+
+Somos Personal, una empresa que acompaña y potencia la vida de las personas a través de la tecnología. Nuestra propuesta está pensada para que cada persona, comunidad y organización pueda avanzar, conectarse, disfrutar y transformar su realidad.
+
+En Personal Pay, estamos sumando un/a Software Backend Developer SR, para la tribu de Cash Management.
+
+Tenemos el orgullo de ser protagonistas de la evolución tecnológica y social del país y por eso te necesitamos en nuestro equipo.
+
+Buscamos Protagonistas Que Se Animen a
+
+✔️ Trabajar en un equipo autónomo formado por diversos roles con los que interactuar para cumplir los objetivos.
+
+✔️ Desempeñarse en un entorno ágil utilizando las últimas metodologías.
+
+✔️ Construir funcionalidades, trabajando en el diseño de las mismas de manera integral con tu equipo.
+
+✔️ Interactuar directamente con los equipos de diseño de UX para implementar una gran experiencia de usuario.
+
+✔️ Participar del análisis técnico de la solución y en las decisiones técnicas de las mismas junto a los diferentes referentes de cada área implicada.
+
+✔️ Interactuar con diferentes equipos dentro de la organización.
+
+Y Cuenten Con Estas Experiencias y Habilidades
+
+✔️ Que sientas curiosidad por el mundo fintech.
+
+✔️ Conocimiento / experiencia en inversiones o similares (deseable)
+
+✔️ Que te apasione el desafio de crear productos de cero y proponer las mejores soluciones.
+
+✔️ 5+ años de experiencia previa en desarrollo de Software.
+
+✔️ Experiencia en NodeJS con ExpressJS y/o NestJS.
+
+✔️ Que hayas trabajado con enfoque Domain Driven Design y Clean Arquitecture
+
+✔️ Que tengas practica en conceptos tales como bounded context, Agregado, value object.
+
+✔️ Experiencia trabajando en arquitecturas de microservicios.
+
+✔️ Herramientas de Monitoreo, Observabilidad y Alarmado (Dynatrace, Grafana, Prometeus, etc)
+
+✔️ Experiencia trabajando con alguna librería JavaScript en el frontend como ReactJS (deseable).
+
+✔️ Experiencia trabajando en entornos distribuidos y cloud (AWS deseable).
+
+✔️ Docker y Kubernetes (Deseable)
+
+✔️ Que domines ES6 y NodeJs.
+
+✔️ Que desarrolles usando patrones diseño y sigas buenas prácticas de programación.
+
+✔️ Conocimientos de unit testing.
+
+✔️ Conocimientos en bases de datos relacionales y no relacionales.
+
+✔️ Egresado o estudiante avanzado de Licenciatura, Ingeniería, Análisis de Sistemas u otras carreras afines.
+
+¿Qué tenemos para ofrecerte?
+
+🌏 Modalidades de trabajo flexible
+
+🏆 Bono por performance
+
+✈️ Una semana extra de vacaciones
+
+📱 Descuentos y bonificaciones exclusivas en nuestros productos (internet, conectividad móvil y entretenimiento) para vos y tu familia
+
+🏥 Prepaga para vos y tu grupo familiar a cargo.
+
+📕 Acceso libre a la plataforma digital de contenidos de aprendizaje
+
+🎓Bonificaciones especiales en universidades de primer nivel
+
+👫 Programa de referidos con reconocimiento económico
+
+¡Y mucho más!
+
+¡Súmate a la transformación digital más desafiante del país!

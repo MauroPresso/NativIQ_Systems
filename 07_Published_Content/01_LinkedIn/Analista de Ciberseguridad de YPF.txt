@@ -1,0 +1,106 @@
+Acerca del empleo
+Sumá tu energía a la compañía que contribuye al desarrollo de nuestro país.
+
+En YPF buscamos personas que quieran ser parte de un gran equipo que transforma desafíos en oportunidades y que actúa con excelencia para generar valor. Con más de cien años de historia, somos la compañía energética líder de la Argentina, impulsando el desarrollo y la innovación tecnológica del país.
+
+¡Sumarte a YPF es unirte a un proyecto que combina experiencia, pasión y la energía necesaria para seguir construyendo nuestro futuro!
+
+¿Qué buscamos? 
+
+Nos encontramos en la búsqueda de un Analista de Ciberseguridad de Datos e Inteligencia Artificial con visión integral, pensamiento analítico y orientación a riesgos, capaz de integrar controles de seguridad, privacidad y uso responsable de IA en todo el ciclo de vida de los productos digitales, articulando con negocio, producto, datos, arquitectura, desarrollo, operaciones y ciberseguridad.
+
+
+¿Cuál será tu misión? 
+
+Integrarse a las torres y células de productos y plataformas digitales como referente de ciberseguridad de datos e IA, coordinando la incorporación oportuna de controles y actividades de seguridad durante todo el ciclo de vida del producto.Su desafío será actuar como facilitador entre los equipos de negocio; tecnología, datos y las especialidades de ciberseguridad, promoviendo una colaboración efectiva, dando visibilidad a los riesgos y compromisos, y contribuyendo a que los productos evolucionen de manera segura, ágil y sostenible
+
+
+¿Cuáles serán tus principales tareas?
+
+Desempeñarse como facilitador y punto de referencia de ciberseguridad de datos e IA en el desarrollo, implementación y operación de soluciones de datos e IA en la Vicepresidencia de Tecnología.
+· Acompañar productos de datos y soluciones de IA durante ideación, diseño, construcción, pruebas, despliegue, operación y retiro, asegurando identificación temprana de riesgos y evidencias de control.
+· Participar en el diseño y evaluación de controles de ciberseguridad para aplicaciones, datos e integraciones, tanto on-premise como cloud.
+· Definir requerimientos de seguridad y criterios de aceptación para cada etapa del ciclo de vida, verificando evidencias antes de las decisiones de avance o puesta en producción.
+· Coordinar la ejecución de las actividades necesarias de las áreas de la Dirección de Ciberseguridad, planificar las actividades, realizar el seguimiento de la ejecución en base a las prioridades acordadas y con una visión transversal en la implementación de los requerimientos respecto a ciberseguridad.
+· Analizar casos de uso, flujos de información, fuentes de datos, modelos, prompts, agentes, herramientas, permisos e integraciones para evaluar exposición, privacidad, confidencialidad y uso responsable.
+· Realizar evaluaciones de riesgo para nuevos casos de uso de datos e IA y recomendar controles proporcionales que habiliten la innovación de manera segura. Proponer alternativas que permitan adoptar IA de forma segura, con controles de acceso, minimización de datos, protección de información sensible, monitoreo, trazabilidad y supervisión humana según el riesgo.
+· Evaluar riesgos asociados a LLMs, agentes y automatizaciones, tales como prompt injection, fuga o uso indebido de datos, respuestas no confiables, abuso de herramientas, permisos excesivos y dependencia de terceros.
+· Promover pruebas de seguridad, validaciones de privacidad, revisión de accesos, monitoreo y automatización de controles en los procesos de desarrollo y entrega.
+· Relevar y mantener actualizado el backlog de requerimientos, riesgos, controles, decisiones, excepciones y evidencias por producto.
+· Coordinar con Product Owners, arquitectura, desarrollo, datos, operaciones y especialistas de ciberseguridad el alcance, responsables, prioridades, dependencias y fechas objetivo.
+· Gestionar riesgos, registrar y seguir vulnerabilidades, hallazgos, desvíos y planes de remediación; escalar bloqueos o riesgos que excedan los umbrales acordados, y dar visibilidad a responsables técnicos y de negocio.
+· Ser nexo entre los proyectos/los responsables de los productos digitales y las áreas técnicas de ciberseguridad, favoreciendo una comunicación clara y una resolución ágil de necesidades en base a las prioridades definidas.
+· Analizar e implementar casos de uso de IA aplicados a ciberseguridad, automatización de controles y eficiencia operativa.
+· Participar en iniciativas de gobierno de datos: clasificación, resguardo, tratamiento, retención, trazabilidad y definición de lineamientos de uso seguro. Colaborar en la evaluación de plataformas cloud y servicios SaaS (ecosistema Microsoft Azure, Microsoft 365, Copilot Studio, etc).
+· Preparar métricas y reportes sobre cobertura de controles, criticidad, vencimientos, riesgos aceptados, remediaciones y decisiones pendientes.
+· Identificar oportunidades de mejora en procesos, estándares, herramientas y formas de trabajo, fomentando prácticas reutilizables entre productos.
+· Mantenerse actualizado/a sobre amenazas, tendencias, marcos y buenas prácticas de seguridad de IA y datos, y traducirlas en mejoras aplicables a los productos.
+
+¿Qué valoramos como diferencial?
+
+Formación académica:  Recibidos en ingeniería/Licenciatura en Sistemas, Informática, Ciberseguridad, Administración de Tecnología o carreras afines, con capacidad para articular necesidades de negocio, producto, tecnología y seguridad.
+Se valorarán cursos, especializaciones o certificaciones en ciberseguridad, gestión de proyectos, metodologías ágiles, seguridad de aplicaciones, gestión de riesgos o marcos como ISO 27001, NIST, CIS, OWASP, ITIL, CISM, CISSP o equivalentes.
+Conocimiento de enfoques de desarrollo seguro y gestión de controles a lo largo del ciclo de vida de productos digitales.
+
+Idioma:  Ingles intermedio/avanzado
+
+Conocimientos: 
+Experiencia mínima de 5 años en ciberseguridad, seguridad de aplicaciones o datos, tecnología y productos digitales.
+· Experiencia en implementación o evaluación de soluciones y servicios de IA, automatización y colaboración, incluyendo soluciones de IA generativa, LLMs, agentes y modelos de lenguaje.
+
+· Capacidad para interpretar arquitecturas, flujos de datos y requerimientos funcionales y técnicos; identificar impactos de seguridad y traducirlos en acciones concretas a lo largo del ciclo de vida del producto.
+Seguridad de la información, ciberseguridad de datos e IA aplicada al ciclo de vida de productos digitales.
+· Gestión de aspectos y controles de ciberseguridad desde la ideación y el diseño hasta la construcción, pruebas, despliegue, operación y retiro del producto, aplicando enfoques Secure SDLC y DevSecOps.
+· Gobierno y seguridad de datos: inventario y clasificación de información, acceso, cifrado, retención, trazabilidad, privacidad, resguardo y tratamiento seguro.
+· Seguridad y uso responsable de IA: evaluación de casos de uso, datos de entrenamiento y contexto, modelos, LLMs, agentes, integraciones, automatizaciones y controles de supervisión.
+· Análisis de riesgos propios de IA generativa, incluyendo exposición o uso indebido de datos, prompt injection, fuga de información, respuestas no confiables, abuso de herramientas, accesos excesivos y riesgos de terceros.
+· Seguridad de aplicaciones web y móviles, APIs, identidades y accesos, nube, componentes de terceros y gestión de secretos.
+· Gestión de vulnerabilidades y riesgos: identificación, análisis, priorización, tratamiento, aceptación, seguimiento de remediaciones y registro de evidencias.
+· Marcos y estándares como ISO 27001, NIST CSF, NIST AI RMF, CIS, OWASP, OWASP para aplicaciones con LLM, PCI DSS y normativa aplicable.
+· Entornos Microsoft Azure, Microsoft 365 y Copilot Studio; conocimientos generales de AWS o Google Cloud y servicios SaaS.
+· Metodologías Agile/Scrum/Kanban y herramientas de gestión como Azure DevOps, Jira o equivalentes.
+· Conocimiento en SW y HW de mercado, y nuevas tecnologías emergentes.
+· Conocimientos generales en herramientas y sistemas que soporten la Ciberseguridad de la empresa.
+· Conocimientos de desarrollo y automatización, preferentemente Python, para comprender integraciones, validar controles y apoyar pruebas.
+· Elaboración de métricas, tableros, reportes ejecutivos y comunicaciones adaptadas a audiencias técnicas y de negocio.
+
+
+
+
+Información del puesto
+Lugar de trabajo: MicrocentroModalidad: 4x1 (4 veces presenciales y una virtual)Disponibilidad para viajar: SiPersonas a cargo: No
+
+
+
+Si sos una persona que: 
+Trabaja con excelencia y profesionalismo.
+Da lo mejor cada día, valora la meritocracia y busca siempre la milla extra.
+Vive los desafíos como oportunidades para innovar y aprender.
+Disfruta del trabajo en equipo y del intercambio de distintos puntos de vista.
+Encara los proyectos con pasión y compromiso.
+Promueve un buen clima de trabajo, con empatía, escucha activa y respeto.
+
+
+¡Este puesto es para vos!
+
+¿Qué ofrecemos? 
+
+Un entorno donde podés aportar lo más valioso que tenés: tu energía. Esa energía que impulsa, que se adapta, que aprende, que suma, que transforma.
+Sumarte a la #ExperienciaYPF es: 
+🤩 Impulsar tu desarrollo al siguiente nivel con nuevas oportunidades de aprendizaje.
+
+💡 Crear soluciones innovadoras que impactan en el país.
+🤝 Formar parte de una empresa comprometida con la equidad y la inclusión.
+🧘 ♀️ Disfrutar del acompañamiento integral del Programa Be #BeneficiosYExperiencias.
+Programa Be (Beneficios y Experiencias)
+Descuentos exclusivos en combustibles, gimnasios y muchos otros productos y servicios.
+Iniciativas para estar cerca en los momentos familiares claves: ayuda escolar, licencias parentales extendidas y regalo de nacimiento.
+Cobertura médica para vos y tu familia.
+Descuentos especiales en universidades orientados a impulsar estudios de especialización y posgrado.
+Servicios de refrigerio, frutas, snacks y comedor.
+Día libre de cumpleaños
+Esquema de vacaciones adicionales
+
+
+
+¡Te esperamos para seguir generando valor y construyendo juntos el futuro energético de nuestro país!
