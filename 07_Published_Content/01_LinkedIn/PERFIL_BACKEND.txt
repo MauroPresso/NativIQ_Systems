@@ -1,0 +1,70 @@
+PERFIL
+
+Desarrollador orientado a backend y sistemas fintech, con formación en Ingeniería Electrónica
+y sólida base en matemática aplicada. Experiencia desarrollando proyectos en Python, Java,
+SQL y C, con especial interés en procesamiento de datos, sistemas cuantitativos, Bitcoin
+y tecnologías financieras. Desarrollo activo de proyectos documentados públicamente en GitHub.
+
+
+HABILIDADES TÉCNICAS
+
+Lenguajes: Python · Java · SQL / T-SQL · C
+Datos: SQLite · modelado y consultas SQL · procesamiento y validación de datos
+Desarrollo: Programación orientada a objetos · Git · GitHub · testing · diseño modular
+Documentación: Doxygen · documentación técnica de proyectos
+Fintech / Quant: backtesting · datos de mercado · señales · controles de riesgo · Bitcoin
+IA: análisis asistido por IA aplicado a investigación y documentación de sistemas
+
+
+PROYECTOS DESTACADOS
+
+BotTradeNC | Python · SQLite · Quant Research · Fintech
+Sistema de investigación cuantitativa AI-native para mercados cripto, actualmente enfocado
+en ETH/BTC. Arquitectura orientada a captura y validación de datos de mercado, generación
+de features y señales, backtesting reproducible, controles de riesgo, monitoreo operativo,
+reporting y análisis asistido por IA. Diseñado con énfasis en reproducibilidad, auditabilidad
+y separación entre investigación, riesgo y ejecución.
+
+Sistema_Facturacion_BDD_PyME | T-SQL
+Proyecto de base de datos para un sistema de facturación de PyME, orientado al diseño,
+almacenamiento y consulta estructurada de información.
+
+SistemaDeAerolinea | Java
+Sistema desarrollado en Java aplicando programación orientada a objetos, Collections,
+genéricos, expresiones lambda, Stream API, persistencia y separación de responsabilidades.
+
+Otros repositorios destacados en GitHub:
+App_Tienda_Py (Python) · NetworkStructure (C) · CalculadoraDeMatrices (C)
+
+
+FORMACIÓN ACADÉMICA
+
+Universidad Nacional del Comahue — Facultad de Ingeniería
+Ingeniería Electrónica
+
+Formación matemática relevante:
+Análisis Matemático I, II, III y IV · Álgebra y Geometría I y II ·
+Probabilidad y Estadística
+
+Promedio de materias aprobadas: 7,85
+
+
+IDIOMAS Y CERTIFICACIONES
+
+Inglés — TOEFL ITP: 523 puntos | 2018
+
+
+EXPERIENCIA ADICIONAL
+
+· Minería en la nube | 2017–2019
+  Contratación de potencia de cómputo mediante HashFlare, selección de mining pools
+  y seguimiento del rendimiento generado en BTC.
+
+· Autocustodia de Bitcoin | 2019–Actualidad
+  Gestión y conservación de BTC mediante hardware wallets Trezor y Ledger.
+
+· Voluntariado tecnológico | 2025
+  Sociedad Vecinal Valentina Norte Rural, Neuquén.
+  Reacondicionamiento de dos PCs para uso educativo comunitario: desmontaje, limpieza
+  interna, rearmado, instalación de sistema operativo y software educativo, y validación
+  de funcionamiento para niños/as y adultos mayores bajo supervisión docente.
